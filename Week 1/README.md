@@ -1,1 +1,1 @@
-In this week we will review Python and basic machine learning concepts.
+In this week we will review Python and machine learning concepts as a refresher.
