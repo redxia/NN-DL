@@ -1,0 +1,1 @@
+In this week we will review Python and basic machine learning concepts.
