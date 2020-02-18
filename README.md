@@ -1,6 +1,8 @@
 # Neural-Networks-and-Deep-Learning
 Neural Networks and Deep Learning
 
+I will be only uploading the final project which will work with forecasting in finance.
+
 Winter 2020
 
 Course description: Review of machine learning concepts; maximum likelihood; supervised classification; neural network architectures; backpropagation; regularization for training neural networks; optimization for training neural networks; convolutional neural networks; practical CNN architectures; deep learning libraries in Python; recurrent neural networks, backpropagation through time, long short-term memory and gated recurrent units; variational autoencoders; generative adversarial networks; adversarial examples and training.
