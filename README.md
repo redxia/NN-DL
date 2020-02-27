@@ -1,7 +1,7 @@
 # Neural-Networks-and-Deep-Learning
 Neural Networks and Deep Learning
 
-I will be only uploading the final project which will work with forecasting in finance.
+I will be only uploading the final project which will work with stock price forecasting.
 
 Winter 2020
 
